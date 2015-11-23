@@ -1,8 +1,12 @@
 Flabby world.
 
+<<<<<<< HEAD
 More flabbiness.
 
 Less flabbiness.
 
 Making mistakes, typing regrettable nonsense.Flabby world.
 
+=======
+More flabbiness
+>>>>>>> parent of 60a0a31... Making some random commits.

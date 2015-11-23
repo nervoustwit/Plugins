@@ -1,5 +1,6 @@
 hello world.
 
+<<<<<<< HEAD
 And hello world again.
 
 Adding more to Hello World.
@@ -29,3 +30,6 @@ And hello world again.
 Adding more to Hello World.
 
 Also typing regrettable nonsense.	
+=======
+And hello world again.
+>>>>>>> parent of 60a0a31... Making some random commits.
